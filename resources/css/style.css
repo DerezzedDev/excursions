@@ -21,3 +21,9 @@ h3{
 	color: gray;
 	font-weight: 300;
 }
+.phone{
+	padding-top: 20px;
+}
+.footer h3{
+	text-align: right;
+}
